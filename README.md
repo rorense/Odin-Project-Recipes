@@ -1,3 +1,4 @@
 # Odin-Project
+# Odin-Recipe Website
 
-This is where I will be storing all my Odin Project resources and practices.
+The first project on the Odin Project, to create a Recipe website with all the foods I like!
